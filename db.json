@@ -3,7 +3,7 @@
     "products": [
       { "id": 1, "quantity": 12 ,"name":"苹果"},
       { "id": 2, "quantity": 22 ,"name":"华为"},
-      { "id": 3, "quantity": 33","name":"小米"}
+      { "id": 3, "quantity": 33 ,"name":"小米"}
     ]
   },
   "comments": [
